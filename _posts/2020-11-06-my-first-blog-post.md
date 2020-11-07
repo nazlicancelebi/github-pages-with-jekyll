@@ -1,4 +1,4 @@
 ---
- "My Blog! Uh ^^"
- 2020-11-07
+title: "MY BLOG"
+date: 2020-11-07
 ---
